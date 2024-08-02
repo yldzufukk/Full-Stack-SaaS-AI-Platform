@@ -19,6 +19,7 @@
     "axios": "^1.7.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "landing": "^0.0.1",
     "lucide-react": "^0.414.0",
     "next": "^14.2.5",
     "openai": "^4.53.2",
@@ -29,6 +30,7 @@
     "replicate": "^0.32.0",
     "tailwind-merge": "^2.4.0",
     "tailwindcss-animate": "^1.0.7",
+    "typewriter-effect": "^2.21.0",
     "zod": "^3.23.8"
   },
   "devDependencies": {

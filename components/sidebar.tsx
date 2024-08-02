@@ -11,8 +11,7 @@ import {
     ImageIcon, 
     LayoutDashboard, 
     MessageSquare, 
-    Music, 
-    Settings, 
+    Music,
     VideoIcon} from "lucide-react";
 
 const montserrat = Montserrat({
@@ -57,11 +56,6 @@ const routes = [
         href: "/code",
         color: "text-green-700"
     },
-    {
-        label: "Settings",
-        icon: Settings,
-        href: "/settings"
-    }
 
 ]
 
