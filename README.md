@@ -11,7 +11,7 @@ Features:
 - Video Generation Tool (Replicate AI)
 - Conversation Generation Tool (Open AI)
 - Music Generation Tool (Replicate AI)
-- 
+  
 ### Prerequisites
 
 **Node version 18.x.x**
