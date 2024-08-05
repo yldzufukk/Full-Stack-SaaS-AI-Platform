@@ -55,3 +55,9 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
+
+
+
+https://github.com/user-attachments/assets/6fa04e89-afce-4eb7-9621-55cdebc19ffb
+
+
